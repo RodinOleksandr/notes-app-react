@@ -1,0 +1,8 @@
+
+1 Запускаем MongoDB - переходим в папку mongodb/bin,
+		    - запускаем 'mongod.exe',
+		    - запускаем 'mongo.exe';
+
+2. В корневой папке через cmd запускаем 'npm install' и далее запускаем сервер 'babel-node server/server.js'
+
+3. Запускаем 'index.html' ;
